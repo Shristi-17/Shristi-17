@@ -8,7 +8,7 @@ I'm a web development and MERN stack enthusiast.
 
 I won't call myself a perfectionist but I love to do every task perfectly. I love learning new skills and technologies.
 
-I'm always looking forward to collaborate in web development projects.
+I'm always looking forward to collaborate in web development projects and open source contributions.
 
 ## 🙌 Interests
 * Web development
