@@ -3,7 +3,7 @@
 I, Shristi Chauhan, welcomes you to my profile.
 
 ## 🚀 About Me
-I am a 20 year old pursing my undergraduate's degree in Computer Science. 
+I am pursing my undergraduate's degree in Computer Science. 
 I'm a web development and MERN stack enthusiast.
 
 I won't call myself a perfectionist but I love to do every task perfectly. I love learning new skills and technologies.
