@@ -1,6 +1,5 @@
 
 # Hello!👋
-I, Shristi Chauhan, welcomes you to my profile.
 
 ## 🚀 About Me
 I am pursing my undergraduate's degree in Computer Science. 
