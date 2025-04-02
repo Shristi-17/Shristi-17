@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shristi Chauhan</h1>
-<p align="center">A passionate frontend developer from India, pursing my undergraduate's degree in Computer Science.</p>
-<p align="center">I love learning new skills and technologies. </p>
+<p align="center">A frontend developer with a passion for building intuitive and dynamic user experiences.</p>
+<p align="center">Always eager to explore new technologies and enhance my skills. </p>
 
 ## 🙌 Interests
 * Web development
@@ -10,14 +10,13 @@
 
 
 ## 🛠 Skills
-* HTML
-* CSS
+* HTML/CSS
 * Javascript
 * Python
-* C
-* C++
-* Java
+* C/C++
 * MySQL
+* MongoDB
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shristichauhan.design)
