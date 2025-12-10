@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shristi Chauhan</h1>
-<p align="center">A frontend developer with a passion for building intuitive and dynamic user experiences.</p>
+<p align="center">A developer with a passion for building intuitive and dynamic user experiences.</p>
 <p align="center">Always eager to explore new technologies and enhance my skills. </p>
 
 ## 🙌 Interests
 * Web development
-* MERN stack
+* AI-ML
 * Open source
 
 
